@@ -1,3 +1,4 @@
 Este es un texto solo para poder lograr practicas en git que es lo que se quiere.
 Otra linea para probar un commit.
 Estoy probando los conflictos.
+Otra linea para probar conflictos. Esta modificacion es en ela rama index.
