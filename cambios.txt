@@ -6,4 +6,5 @@ ESta linea es para probar en donde queda el head luego de una modificacion y des
 Probando nuevamente merge con mensaje de comit con git merge --no-ff
 Una linea mas para probar conflictos y solucionarlos con bloc de notas
 Una linea mas para probar conflictos y solucionarlos con bloc de notas en rama index
+Otra linea para probar el git merge tool
 
