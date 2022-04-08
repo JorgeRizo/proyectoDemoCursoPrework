@@ -4,3 +4,4 @@ Estoy probando los conflictos.
 Otra linea para probar conflictos. Esta modificacion es en ela rama index.
 ESta linea es para probar en donde queda el head luego de una modificacion y despuesd e un merge.
 Probando nuevamente merge con mensaje de comit con git merge --no-ff
+Una linea mas para probar conflictos y solucionarlos con bloc de notas en rama index
